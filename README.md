@@ -5,11 +5,11 @@ Table of Contents
 ----Installation
 ----Usage
 Modules
-1. Web Scraping
-2. Embedding Generation
-3. FAISS Vector Database
-4. Generative AI
-5. Gradio User Interface
+--> Web Scraping
+--> Embedding Generation
+--> FAISS Vector Database
+--> Generative AI
+--> Gradio User Interface
 ----API Endpoints
 ----Technologies
 ----License
