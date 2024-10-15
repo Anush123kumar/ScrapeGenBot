@@ -35,7 +35,7 @@ Key Class: The pipeline function from the transformers library is used to load t
 Key Function: generate_paragraph_answer(context, question) - This function takes a context and a question, and returns a generated answer.
 
 5. Gradio User Interface
-Functionality: Provides a user-friendly interface to interact with the WebSage-Bot.
+Functionality: Provides a user-friendly interface to interact with the ScrapeGen-Bot.
 Key Functions: The Gradio interface is set up with tabs for loading data and asking questions, making it easy for users to interact with the bot.
 
 
