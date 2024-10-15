@@ -1,6 +1,12 @@
 # ScrapeGenBot
 ScrapeGenBot is an AI-based project that combines web scraping, vector embeddings, and generative AI to extract and analyze web content. The tool enables users to scrape data from any webpage, store it in a vector database (FAISS), and query the stored data with questions, generating insightful answers using GPT-2.
 
+
+
+
+![image](https://github.com/user-attachments/assets/ae33108d-d7b7-48b0-97f3-1e3e1657288b)
+
+
 Table of Contents
 ----Installation
 ----Usage
